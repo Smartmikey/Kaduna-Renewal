@@ -37,3 +37,11 @@ div, p, a {
 #margin{
     margin-top: 0;
 }
+
+.carousel-caption  p, .carousel-caption h2{
+    text-shadow: 5px 7px 10px #000;
+}
+.card {
+    border-bottom: 2px solid green;
+    margin: 10px;
+}
