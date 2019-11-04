@@ -31,7 +31,7 @@ div, p, a {
     margin: auto 30px;
     font-size: 1.2rem;
     font-weight: 500;
-    margin-top: 15px;
+    
 }
 
 #margin{
@@ -44,4 +44,11 @@ div, p, a {
 .card {
     border-bottom: 2px solid green;
     margin: 10px;
+}
+
+.pattern-bg{
+    background-image: url(
+        "../img/download.png"
+    );
+    background-repeat: repeat;
 }
